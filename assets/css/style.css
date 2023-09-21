@@ -1,0 +1,17 @@
+
+
+.paragraphe{
+    width: 300px;
+    padding: 10px;
+    margin:20px;
+    height: 100px;
+
+}
+
+.paragraphe {
+    width: 300px;
+    height: 100px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+}
